@@ -6,7 +6,7 @@ import numpy as np
 from cvzone.HandTrackingModule import HandDetector
 
 width, height = 1280,720
-folderPath="meme"
+folderPath="files"
 cap=cv2.VideoCapture(0)
 cap.set(3, width)
 cap.set(4, height)
