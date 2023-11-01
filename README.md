@@ -25,7 +25,7 @@ pip install cvzone
 2. Run the script:
 
 ```bash
-python interactive_annotation_tool.py
+python main.py
 ```
 
 3. The script will open a window displaying the images from the specified folder.
